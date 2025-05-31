@@ -57,11 +57,11 @@ This project is a **multi-agent AI system** that accepts documents in various fo
 ---
 
 ## 🖼️ Sample Output Screenshots
-![email_input](outputs/Screenshot 2025-05-31 233205.png)
-![json_input](outputs/Screenshot 2025-05-31 233237.png)
-![json_input](outputs/Screenshot 2025-05-31 233301.png)
-![pdf_input](outputs/Screenshot 2025-05-31 233319.png)
-![pdf_input](outputs/Screenshot 2025-05-31 233331.png)
+![email_input](/outputs/Screenshot 2025-05-31 233205.png)
+![json_input](/outputs/Screenshot 2025-05-31 233237.png)
+![json_input](/outputs/Screenshot 2025-05-31 233301.png)
+![pdf_input](/outputs/Screenshot 2025-05-31 233319.png)
+![pdf_input](/outputs/Screenshot 2025-05-31 233331.png)
 
 ---
 
