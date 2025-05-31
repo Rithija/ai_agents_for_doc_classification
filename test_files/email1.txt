@@ -1,0 +1,9 @@
+From: client@example.com
+Subject: Request for Quotation
+
+Hello,
+
+We are looking to procure 200 units of your Model X device. Please send us a quotation and delivery schedule.
+
+Regards,
+John Smith
