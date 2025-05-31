@@ -59,13 +59,21 @@ This project is a **multi-agent AI system** that accepts documents in various fo
 ## 🖼️ Sample Output Screenshots
 
 
-<img src="/outputs/Screenshot_2025-05-31_233205.png" alt="Email Input" width="300"/> &nbsp;&nbsp;
-<img src="/outputs/Screenshot_2025-05-31_233237.png" alt="JSON Input 1" width="300"/>
+<table>
+  <tr>
+    <td><img src="/outputs/Screenshot%202025-05-31%20233205.png" alt="email_input" width="300"/></td>
+    <td><img src="/outputs/Screenshot%202025-05-31%20233237.png" alt="json_input 1" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="/outputs/Screenshot%202025-05-31%20233301.png" alt="json_input 2" width="300"/></td>
+    <td><img src="/outputs/Screenshot%202025-05-31%20233319.png" alt="pdf_input 1" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="/outputs/Screenshot%202025-05-31%20233331.png" alt="pdf_input 2" width="300"/></td>
+    <td></td>
+  </tr>
+</table>
 
-<img src="/outputs/Screenshot_2025-05-31_233301.png" alt="JSON Input 2" width="300"/> &nbsp;&nbsp;
-<img src="/outputs/Screenshot_2025-05-31_233319.png" alt="PDF Input 1" width="300"/>
-
-<img src="/outputs/Screenshot_2025-05-31_233331.png" alt="PDF Input 2" width="300"/>
 
 ---
 
