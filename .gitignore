@@ -1,1 +1,13 @@
+
+venv/
 .env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore editor-specific or OS-specific files
+.DS_Store
+
+# Optional: ignore outputs
+outputs/
